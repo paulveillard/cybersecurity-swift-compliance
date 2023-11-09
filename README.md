@@ -1,4 +1,4 @@
-# Socitey: Regulatory Compliance
+# Society: Regulatory Compliance
 
 
 An ongoing & curated collection of awesome software best practices and techniques, libraries and frameworks, E-books and videos, websites, blog posts, links to github Repositories, technical guidelines and important resources about SWIFT Compliance in Cybersecurity
