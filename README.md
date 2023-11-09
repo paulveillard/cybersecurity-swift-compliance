@@ -8,6 +8,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Theory` - Table of Contents
 
 ### What is SWIFT?
+- SWIFT, or the Society for Worldwide Interbank Financial Telecommunication, is a secure global messaging network that banks use to make cross-border payments. The network facilitates financial institutions to wire money to each other, helping ensure that global trade carries on smoothly.
 
 ## `Techniques` - Table of Contents
 
